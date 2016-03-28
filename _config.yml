@@ -1,0 +1,29 @@
+name: AIAAndes
+favicon: null
+layout_spectrum: 0.13735691225156188
+typography_spectrum: 0.5594509013462812
+title: American International Academy of the Andes
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8895885460078716
+  lightness: 0.4147791776340455
+  saturation: 0.4469587591011077
+  rhythmicContrast: 0.5358997874427587
+purpose: []
