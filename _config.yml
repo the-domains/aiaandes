@@ -1,6 +1,6 @@
-name: AIAAndes
+name: American International Academy of the Andes
 favicon: null
-layout_spectrum: 0.13735691225156188
+layout_spectrum: 0.75875
 typography_spectrum: 0.5594509013462812
 title: AIAAndes
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.8895885460078716
+    - '#0c070d'
+    - '#fffedf'
+    - '#d9a9a5'
+    - '#906d74'
+    - '#7a1228'
+  brandStrength: 0.5
   lightness: 0.4147791776340455
   saturation: 0.4469587591011077
   rhythmicContrast: 0.5358997874427587
